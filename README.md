@@ -1,2 +1,3 @@
 # effective-broccoli
-demo repo
+
+Demo repo for experiments.
